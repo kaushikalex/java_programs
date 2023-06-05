@@ -19,7 +19,7 @@ public class StringPalindromeHE {
             j++;
         }
         if(ct==1)
-            System.out.println("YES");
+            System.out.println("YESSSSS");
         else
             System.out.println("NOOOOO");
 
