@@ -21,7 +21,7 @@ public class StringPalindromeHE {
         if(ct==1)
             System.out.println("YES");
         else
-            System.out.println("NO");
+            System.out.println("NOOOOO");
 
     }
 }
